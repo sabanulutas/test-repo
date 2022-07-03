@@ -1,8 +1,5 @@
+package net.ulutas.deneme
 
-# deneme
-# deneme
-# deneme
+class Deneme {
 
-# test
-# test
-# test
+}
